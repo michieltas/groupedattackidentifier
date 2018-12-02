@@ -1,0 +1,26 @@
+<HTML>
+<HEAD/>
+
+<BODY>
+<H1>Identifying grouped attacks</H1>
+<P>
+<H2>Context</H2>
+Given a test stream of attacks of different types and attackers, the software automatically groups the attacks which belong together. A time gap of 1 minute is assumed to be a new attack.
+</P>
+<P>
+Method 'public static void main(String[] args)' of class Main contains the streaming steps.
+</P>
+<P>
+<H2>Executing the program</H2>
+Method 1:
+Class Main.java can be run within an IDE, and produces print output to the console. For example, import the maven project into Eclipse, right-click class Main and choose 'Run as', choose Java application.
+<BR/><BR/>
+Method 2:
+Open a cmd or shell window, change directory to the top directory, where also the pom.xml is located, and type: <BR/>
+java -jar groupidentify_runnable.jar
+
+<H2>Changing the test set</H2>
+The list of attacks has for now been hard-coded and can be found in method generateDemoAttacks() from class AttacksGenerator.
+</P>
+</BODY>
+</HTML>

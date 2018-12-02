@@ -1,0 +1,15 @@
+com\bitsensor\attack\domain\AttackType.class
+com\bitsensor\attack\main\Main$1.class
+com\bitsensor\attack\predefinedstrings\OperatingSystems.class
+com\bitsensor\attack\main\Main$2.class
+com\bitsensor\attack\domain\GroupedAttack.class
+com\bitsensor\attack\create\AttacksGenerator.class
+com\bitsensor\attack\predefinedstrings\PredefinedAgents$1.class
+com\bitsensor\attack\domain\Attacker.class
+com\bitsensor\attack\create\AttackInstanceBuilder.class
+com\bitsensor\attack\main\Main.class
+com\bitsensor\attack\domain\IPaddress.class
+com\bitsensor\attack\domain\UserAgent.class
+com\bitsensor\attack\predefinedstrings\ExceptionMessages.class
+com\bitsensor\attack\domain\Attack.class
+com\bitsensor\attack\predefinedstrings\PredefinedAgents.class

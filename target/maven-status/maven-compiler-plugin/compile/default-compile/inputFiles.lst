@@ -1,0 +1,12 @@
+C:\ws\streaming\groupidentify\src\main\java\com\bitsensor\attack\domain\AttackType.java
+C:\ws\streaming\groupidentify\src\main\java\com\bitsensor\attack\main\Main.java
+C:\ws\streaming\groupidentify\src\main\java\com\bitsensor\attack\domain\GroupedAttack.java
+C:\ws\streaming\groupidentify\src\main\java\com\bitsensor\attack\domain\UserAgent.java
+C:\ws\streaming\groupidentify\src\main\java\com\bitsensor\attack\predefinedstrings\ExceptionMessages.java
+C:\ws\streaming\groupidentify\src\main\java\com\bitsensor\attack\domain\IPaddress.java
+C:\ws\streaming\groupidentify\src\main\java\com\bitsensor\attack\domain\Attacker.java
+C:\ws\streaming\groupidentify\src\main\java\com\bitsensor\attack\create\AttackInstanceBuilder.java
+C:\ws\streaming\groupidentify\src\main\java\com\bitsensor\attack\predefinedstrings\PredefinedAgents.java
+C:\ws\streaming\groupidentify\src\main\java\com\bitsensor\attack\domain\Attack.java
+C:\ws\streaming\groupidentify\src\main\java\com\bitsensor\attack\predefinedstrings\OperatingSystems.java
+C:\ws\streaming\groupidentify\src\main\java\com\bitsensor\attack\create\AttacksGenerator.java
