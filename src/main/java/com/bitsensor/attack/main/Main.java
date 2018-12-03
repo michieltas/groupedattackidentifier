@@ -12,7 +12,7 @@ import org.apache.flink.streaming.api.datastream.KeyedStream;
 import org.apache.flink.streaming.api.datastream.SingleOutputStreamOperator;
 import org.apache.flink.streaming.api.datastream.WindowedStream;
 import org.apache.flink.streaming.api.environment.StreamExecutionEnvironment;
-import org.apache.flink.streaming.api.functions.AscendingTimestampExtractor;
+import org.apache.flink.streaming.api.functions.timestamps.AscendingTimestampExtractor;
 import org.apache.flink.streaming.api.functions.windowing.WindowFunction;
 import org.apache.flink.streaming.api.windowing.assigners.EventTimeSessionWindows;
 import org.apache.flink.streaming.api.windowing.time.Time;
@@ -29,7 +29,6 @@ import com.bitsensor.attack.domain.GroupedAttack;
  * Grouping attacks from a stream.
  *
  */
-@SuppressWarnings("deprecation")
 public class Main {
 	private static Logger logger = Logger.getLogger(Main.class.getName());
 
