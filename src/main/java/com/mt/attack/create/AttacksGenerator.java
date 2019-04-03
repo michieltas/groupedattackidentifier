@@ -1,15 +1,15 @@
-package com.bitsensor.attack.create;
+package com.mt.attack.create;
 
 import java.util.Date;
 import java.util.List;
 
 import org.apache.flink.api.java.tuple.Tuple4;
 
-import com.bitsensor.attack.domain.Attack;
-import com.bitsensor.attack.domain.AttackType;
-import com.bitsensor.attack.domain.Attacker;
-import com.bitsensor.attack.predefinedstrings.OperatingSystems;
-import com.bitsensor.attack.predefinedstrings.PredefinedAgents;
+import com.mt.attack.domain.Attack;
+import com.mt.attack.domain.AttackType;
+import com.mt.attack.domain.Attacker;
+import com.mt.attack.predefinedstrings.OperatingSystems;
+import com.mt.attack.predefinedstrings.PredefinedAgents;
 
 public class AttacksGenerator {
 	private List<Tuple4<Attacker, AttackType, Long, String>> attacks;

@@ -1,10 +1,10 @@
-package com.bitsensor.attack.domain;
+package com.mt.attack.domain;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import com.bitsensor.attack.predefinedstrings.ExceptionMessages;
+import com.mt.attack.predefinedstrings.ExceptionMessages;
 
 public class IPaddress {
 

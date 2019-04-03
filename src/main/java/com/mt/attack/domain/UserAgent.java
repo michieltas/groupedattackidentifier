@@ -1,7 +1,7 @@
 
-package com.bitsensor.attack.domain;
+package com.mt.attack.domain;
 
-import com.bitsensor.attack.predefinedstrings.OperatingSystems;
+import com.mt.attack.predefinedstrings.OperatingSystems;
 
 public class UserAgent {
 

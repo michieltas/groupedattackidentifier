@@ -1,6 +1,7 @@
-package com.bitsensor.attack.domain;
+package com.mt.attack.domain;
 
-import com.bitsensor.attack.predefinedstrings.ExceptionMessages;
+import com.mt.attack.domain.IPaddress;
+import com.mt.attack.predefinedstrings.ExceptionMessages;
 
 import junit.framework.TestCase;
 

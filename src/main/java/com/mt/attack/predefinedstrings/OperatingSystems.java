@@ -1,4 +1,4 @@
-package com.bitsensor.attack.predefinedstrings;
+package com.mt.attack.predefinedstrings;
 
 public enum OperatingSystems {
 	WINDOWS, ANDROID, IOS, LINUX;

@@ -1,6 +1,6 @@
-package com.bitsensor.attack;
+package com.mt.attack;
 
-import com.bitsensor.attack.main.Main;
+import com.mt.attack.main.Main;
 
 import junit.framework.TestCase;
 

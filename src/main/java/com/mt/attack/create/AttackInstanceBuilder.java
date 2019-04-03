@@ -1,12 +1,12 @@
-package com.bitsensor.attack.create;
+package com.mt.attack.create;
 
-import com.bitsensor.attack.domain.Attack;
-import com.bitsensor.attack.domain.AttackType;
-import com.bitsensor.attack.domain.Attacker;
-import com.bitsensor.attack.domain.IPaddress;
-import com.bitsensor.attack.domain.UserAgent;
-import com.bitsensor.attack.predefinedstrings.OperatingSystems;
-import com.bitsensor.attack.predefinedstrings.PredefinedAgents;
+import com.mt.attack.domain.Attack;
+import com.mt.attack.domain.AttackType;
+import com.mt.attack.domain.Attacker;
+import com.mt.attack.domain.IPaddress;
+import com.mt.attack.domain.UserAgent;
+import com.mt.attack.predefinedstrings.OperatingSystems;
+import com.mt.attack.predefinedstrings.PredefinedAgents;
 
 /**
  * Builds from raw data an attack instance in a convenient way.

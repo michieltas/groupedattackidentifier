@@ -1,8 +1,9 @@
-package com.bitsensor.attack.predefinedstrings;
+package com.mt.attack.predefinedstrings;
 
 import java.util.List;
 
-import com.bitsensor.attack.domain.UserAgent;
+import com.mt.attack.domain.UserAgent;
+import com.mt.attack.predefinedstrings.PredefinedAgents;
 
 import junit.framework.Assert;
 import junit.framework.TestCase;

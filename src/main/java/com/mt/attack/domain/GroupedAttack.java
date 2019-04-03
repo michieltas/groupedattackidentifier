@@ -1,4 +1,4 @@
-package com.bitsensor.attack.domain;
+package com.mt.attack.domain;
 
 import java.util.ArrayList;
 import java.util.HashSet;

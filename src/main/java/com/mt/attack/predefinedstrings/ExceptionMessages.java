@@ -1,4 +1,4 @@
-package com.bitsensor.attack.predefinedstrings;
+package com.mt.attack.predefinedstrings;
 
 public final class ExceptionMessages {
 	public static final String FOUR_ARGS_REQUIRED = "Four arguments required.";

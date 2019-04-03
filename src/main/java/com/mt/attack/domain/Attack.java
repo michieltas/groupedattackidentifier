@@ -1,4 +1,4 @@
-package com.bitsensor.attack.domain;
+package com.mt.attack.domain;
 
 /**
  * An attack is executed by an attacker, and an attack has a certain type.

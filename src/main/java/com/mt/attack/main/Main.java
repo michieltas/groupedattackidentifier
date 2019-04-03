@@ -1,4 +1,4 @@
-package com.bitsensor.attack.main;
+package com.mt.attack.main;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -19,11 +19,11 @@ import org.apache.flink.streaming.api.windowing.time.Time;
 import org.apache.flink.streaming.api.windowing.windows.TimeWindow;
 import org.apache.flink.util.Collector;
 
-import com.bitsensor.attack.create.AttacksGenerator;
-import com.bitsensor.attack.domain.Attack;
-import com.bitsensor.attack.domain.AttackType;
-import com.bitsensor.attack.domain.Attacker;
-import com.bitsensor.attack.domain.GroupedAttack;
+import com.mt.attack.create.AttacksGenerator;
+import com.mt.attack.domain.Attack;
+import com.mt.attack.domain.AttackType;
+import com.mt.attack.domain.Attacker;
+import com.mt.attack.domain.GroupedAttack;
 
 /**
  * Grouping attacks from a stream.

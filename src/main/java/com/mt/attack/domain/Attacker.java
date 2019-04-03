@@ -1,4 +1,4 @@
-package com.bitsensor.attack.domain;
+package com.mt.attack.domain;
 
 /**
  * An attacker consists of an IP address and a user agent.

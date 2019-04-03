@@ -1,9 +1,9 @@
-package com.bitsensor.attack.predefinedstrings;
+package com.mt.attack.predefinedstrings;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import com.bitsensor.attack.domain.UserAgent;
+import com.mt.attack.domain.UserAgent;
 
 /**
  * Better to put possible combinations of agents, operating systems and versions
